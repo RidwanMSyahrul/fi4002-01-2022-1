@@ -79,9 +79,8 @@ plt.show()
 
 Hasilnya adalah
 
-```
-![Hasil Program](https://github.com/RidwanMSyahrul/fi4002-01-2022-1/blob/main/task/02/10219040/Screenshot_2022-10-19-10-27-44-381_ru.iiec.pydroid3.jpg) 
-```
+![Hasil Program](Screenshot_2022-10-19-10-27-44-381_ru.iiec.pydroid3.jpg) 
+
 
 
 ## cara perkuliahan
