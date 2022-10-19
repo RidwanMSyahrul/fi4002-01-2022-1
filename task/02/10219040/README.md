@@ -1,25 +1,40 @@
-# 1021XABC
+# 10219040
 NamaLengkap
 
 
 ## materi sebelumnya
-+ Tuliskan materi-materi sebelumnya yang telah diberikan dalam kuliah ini.
++ Euler 
++ Runge-Kutta orde 4
++ Transformasi Fourier
++ Monte Carlo
++ Rekursif
++ Lotka Volterra
++ Heat Diffusion Model
++ Osilasi Bandul (Overdamped, Critically Damped, Underdamped) 
++ Penyelesaian Persamaan ODE (Ordinary Differential Equation) 
+
 
 
 ## materi paling menarik
-+ Tuliskan materi yang paling menarik yang telah diberikan dan jelaskan mengapa menarik.
++ Monte Carlo
++ Osilasi Bandul
 
 
 ## materi paling membosankan
-+ Tuliskan materi yang telah diberikan yang paling membosankan dan jelaskan alasannya.
++ Euler
++ Heat Diffusion Model
 
 
-## materi yang sudah dipami
-+ Tuliskan materi-materi yang telah dipahami.
+## materi yang sudah dipahami
++ Runge Kutta orde 4
++ Heat Diffusion Model
++ Osilasi Bandul
 
 
 ## materi yang belum dipahami
-+ Tuliskan materi-materi yang masih belum dipahami dan bagian mana yang belum serta ingin dipahami.
++ Monte Carlo
++ Transformasi Fourier
++ Euler (masih suka bingung untuk persamaannya) 
 
 
 ## contoh program
@@ -36,12 +51,12 @@ Hasilnya adalah
 
 
 ## cara perkuliahan
-+ Tuliskan pendapat Anda mengenai cara perkuliahan selama ini dan cantumkan usulan untuk perkuliahan setelah UTS.
++ Penyampaian materi sudah baik, dan penggunaan waktu kuliah pun sudah sesuai. Saran untuk kedepannya mungkin materi dibagikan juga dalam bentuk pdf atau contoh programnya juga diberikan agar mahasiswa bisa belajar kembali. 
 
 
 ## topik sistem fisis
-+ Tuliskan sistem fisis yang menarik bagi Anda untuk dikaji lebih dalam dan jelaskan alasannya mengapa.
++ Pergerakan atom dalam struktur kristal yang memiliki cacat
 
 
 ## simulasi dan visualisasi
-+ Apakah Anda tertarik dengan simulasi dan visualisasi? Jelaskan topik yang ingin Anda simulasikan / visualisasikan serta cantumkan alasannya dan perkiraan pusataka Python yang perlu digunakan.
++ Saya tertarik untuk melakukan simulasi dan visualisasi. Topik yang ingin divisualisasikan adalah pergerakan atom dalam kristal serta ikatan yang terjadi didalamnya. 
